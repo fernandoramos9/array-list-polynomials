@@ -4,7 +4,7 @@ Contains different common operations for Polynomials implemented using Array Lis
 
 <ul>
     <li>Add</li>
-    <li>Substract</li> 
+    <li>Subtract</li> 
     <li>Multiply by another polynomial</li> 
     <li>Multiply by a constant</li></li> 
     <li>Derivative</li>
