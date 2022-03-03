@@ -1,12 +1,12 @@
 # Array List Polynomials
 
-Contains different common operations for Polynomials implemented using Array Lists, these are:
+A class project that contains different common operations for Polynomials implemented using Array Lists, these are:
 
 <ul>
     <li>Add</li>
     <li>Subtract</li> 
     <li>Multiply by another polynomial</li> 
-    <li>Multiply by a constant</li></li> 
+    <li>Multiply by a constant</li>
     <li>Derivative</li>
     <li>Indefinite Integral</li> 
     <li>Definitive Integral</li>
@@ -14,3 +14,5 @@ Contains different common operations for Polynomials implemented using Array Lis
     <li>Evaluate</li>
     <li>Converts to string</li> 
 </ul>
+
+Run the tests to verify the implementation.
